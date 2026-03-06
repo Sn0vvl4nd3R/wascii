@@ -1,0 +1,5 @@
+/wascii
+*.o
+*.out
+*.a
+*.so
